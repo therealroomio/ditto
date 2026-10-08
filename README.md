@@ -33,7 +33,7 @@ Give your AI coding agent a URL and watch it recreate the website as a clean Nex
 **Recommended: ask your agent.** Paste this into Codex, Claude Code, or your coding agent:
 
 ```text
-Set up https://github.com/JCodesMore/ai-website-cloner-template
+Set up https://github.com/therealroomio/ditto
 as a standalone project in a new folder on my computer.
 Ask me where to put it. Clone the repository, remove its origin remote,
 install dependencies, and run npm run check. Leave it ready for me
